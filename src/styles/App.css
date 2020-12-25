@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+*
+{
+  background-color: #202928;
+  font-family: 'Lato', Verdana, Geneva, Tahoma, sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.App
+{
+  background-color: #202928;
+  color: #f3f4f1;
+  display: grid;
+  grid-template-rows: repeat(6,1fr);
+  grid-template-columns: repeat(2,1fr);
+  max-height: 100vh;
+  margin: 0;
+}
+
+.Header
+{
+  grid-row: 1/2;
+  grid-column: 1/-1;
+}
+
+.Balance
+{
+  grid-row: 2/3;
+  grid-column: 1/2;
+}
+
+.AddTransaction
+{
+  grid-row: 3/-1;
+  grid-column: 1/2;
+}
+
+.IncomeExpense
+{
+  grid-row: 2/3;
+  grid-column: 2/-1;
+} 
+
+.History
+{
+  grid-row: 3/-1;
+  grid-column: 2/-1;
+}
+
+@media screen and (max-width: 1200px) {
+  .App {
+    background-color: #202928;
+    max-height: 130vh;
+    gap: 2%;
+  }
+  .Header
+{ 
+  grid-row: 1/2;
+  grid-column: 1/-1;
+}
+
+.Balance
+{
+  grid-row: 2/3;
+  grid-column: 1/-1;
+}
+
+.AddTransaction
+{
+  grid-row: 4/5;
+  grid-column: 1/-1;
+}
+
+.IncomeExpense
+{ 
+  flex-direction: column;
+  grid-row: 3/4;
+  grid-column: 1/-1;
+}
+
+.History
+{
+  grid-row: 5/6;
+  grid-column: 1/-1;
+  min-height: 50vh;
+}
+}

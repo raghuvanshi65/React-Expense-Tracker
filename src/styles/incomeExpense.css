@@ -1,0 +1,28 @@
+.IncomeExpense
+{
+    padding: 2%;
+    margin: 1%;
+    display: flex;
+    justify-content: space-around;
+    border: solid #929fa9 1px;
+    
+}
+
+.Income
+{
+    padding: 1%;
+    /* border-bottom: solid #929fa9 1px; */
+    display: flex;
+    flex-direction: column;
+}
+
+.Expense
+{
+    padding: 1%;
+    /* border-bottom: solid #929fa9 1px; */
+}
+
+.Details
+{
+    display: flex;
+}

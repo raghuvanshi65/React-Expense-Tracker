@@ -1,0 +1,21 @@
+.History
+{
+    border: solid 1px  #929fa9;
+    padding: 4%;
+    margin: 1%;
+    overflow: scroll;
+    scroll-behavior: smooth;
+    scroll-snap-type: mandatory;
+    -ms-overflow-style: none; 
+    scrollbar-width: none; 
+    transition: 0.2s;
+}
+
+.History::-webkit-scrollbar
+{
+    display: none;
+}
+
+.History h3{
+    margin-bottom: 5%;
+}
