@@ -1,7 +1,19 @@
 # React-Expense-Tracker
 A simple React Web App using ReactJs , context API and bootstrap for styling . This project provides a good understanding of working on context API . Contains Static data , soon going to update in memory storage .
 
+
+# Responsive 
+
+## Desktop_Version
 https://github.com/raghuvanshi65/React-Expense-Tracker/blob/master/src/captures/Capture.PNG?raw=true
+
+## Mobile_Vesrion
+https://github.com/raghuvanshi65/React-Expense-Tracker/blob/master/src/captures/Capture1.PNG?raw=true
+https://github.com/raghuvanshi65/React-Expense-Tracker/blob/master/src/captures/Capture2.PNG?raw=true
+
+## Ipad_version
+https://github.com/raghuvanshi65/React-Expense-Tracker/blob/master/src/captures/Capture3.PNG?raw=true
+
 
 # Getting Started with Create React App
 
