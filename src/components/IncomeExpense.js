@@ -6,10 +6,7 @@ export const IncomeExpense = (props) => {
 
     const {transaction1} = useContext(HistoryContext);
 
-    // const amount = transaction1.map((transaction)=>transaction.amount);
 
-    // const income = amount.filter(item => item > 0 ).reduce((acc , item)=> (acc += item), 0 ).toFixed(2);
-    // const expense = amount.filter(item => item < 0 ).reduce((acc , item)=> (acc += item), 0 ).toFixed(2);
 
     let balance = 0 , expense = 0 ;
     transaction1.forEach(element =>
