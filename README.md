@@ -70,4 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
->>>>>>> 89deb390d4c5970caeb4bcc93e552a49261fe3ef
+
