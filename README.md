@@ -4,14 +4,14 @@ A simple React Web App using ReactJs , context API and bootstrap for styling . T
 
 # Responsive 
 
-## Desktop_Version
+* Desktop_Version
 https://github.com/raghuvanshi65/React-Expense-Tracker/blob/master/src/captures/Capture.PNG?raw=true
 
-## Mobile_Vesrion
+* Mobile_Vesrion
 https://github.com/raghuvanshi65/React-Expense-Tracker/blob/master/src/captures/Capture1.PNG?raw=true
 https://github.com/raghuvanshi65/React-Expense-Tracker/blob/master/src/captures/Capture2.PNG?raw=true
 
-## Ipad_version
+* Ipad_version
 https://github.com/raghuvanshi65/React-Expense-Tracker/blob/master/src/captures/Capture3.PNG?raw=true
 
 
